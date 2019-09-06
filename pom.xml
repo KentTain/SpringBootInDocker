@@ -12,7 +12,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>springbootindocker</artifactId>
-	<version>1.0.0.1-SNAPSHOT</version>
+	<version>1.0.0.1</version>
 	<name>SpringBootInDocker</name>
 	<description>Demo project for Spring Boot</description>
 
